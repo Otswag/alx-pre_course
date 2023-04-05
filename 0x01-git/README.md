@@ -1,1 +1,1 @@
-Read me to be updated
+First step into coding with GitHub 
